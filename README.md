@@ -5,7 +5,7 @@
     uvicorn main:app --reload
 
 
-# QDRANT VECOR DB
+# QDRANT VECOR DB DOCKER COMMAND
 
     qdrant run -p 6333:6333 qdrant/qdrant
 
